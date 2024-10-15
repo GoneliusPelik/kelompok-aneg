@@ -12,6 +12,7 @@ body {
 	justify-content: space-between;
 	width: 80%;
 	margin: 20px auto;
+	margin-top: 0;
   }
 
   .navbar .logo {
@@ -51,6 +52,7 @@ body {
 	display: flex;
 	gap: 10px;
 	flex-wrap: wrap;
+
 }
 
 .column {
